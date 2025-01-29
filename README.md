@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/fadashanti/multi-step-form)
--   Live Site URL: [Netlify]([https://fadashanti-multi-step-form.netlify.app])
+-   Live Site URL: [Netlify](https://fadashanti-multi-step-form.netlify.app)
 
 ## My process
 
