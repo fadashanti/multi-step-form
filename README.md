@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Github](https://github.com/adram3l3ch/multi-step-form)
--   Live Site URL: [Netlify](https://adramelech-multi-step-form.netlify.app)
+-   Solution URL: [Github](https://github.com/fadashanti/multi-step-form)
+-   Live Site URL: [Netlify]([https://fadashanti-multi-step-form.netlify.app])
 
 ## My process
 
@@ -38,5 +38,4 @@ Users should be able to:
 
 ## Author
 
--   Github - [Adram3l3ch](https://github.com/adram3l3ch)
--   Frontend Mentor - [@adram3l3ch](https://www.frontendmentor.io/profile/adram3l3ch)
+-   Github - [FadAshanti](https://github.com/fadashanti)
